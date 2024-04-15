@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        body {
+            background: linear-gradient(to right, rgb(89, 89, 238), rgb(107, 107, 255), rgb(151, 151, 248));
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            display: flex;
+            padding-top: 15%;
+            justify-content: center;
+        }
+
+        h1 {
+            color: #FFFFFF;
+            font-size: 40px;
+        }
+
+        main {
+            display: flex;
+            justify-content: center;
+        }
+
+        section {
+            display: flex;
+            flex-direction: column;
+        }
+
+        h2 {
+            color: #FFFFFF;
+            padding: 15px 0;
+            font-size: 20px;
+            padding-bottom: 15px;
+        }
+
+        p {
+            width: 100px;
+            padding: 5px 0;
+            border-radius: 5px;
+            margin-left: 130px;
+            display: flex;
+            justify-content: center;
+            background-color: #FFFFFF;
+            color: rgb(122, 122, 232);
+            font-size: 16px;
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi funval-API</h1>
+    </header>
+    <main>
+        <section>
+            <h2>¡Explora el mundo de la programación!</h2>
+            <p>Boris Torres</p>
+            <button id="usuarios">lista de usuarios</button>
+            <button id="exportar">exportar datos de DataBase</button>
+            <button id="importar">importar datos a DataBase</button>
+        </section>
+    </main>
+</body>
+<script>
+    function redirectToPage(pageUrl) {
+      window.location.href = pageUrl;
+    }
+
+    document.getElementById("usuarios").addEventListener("click", function () {
+      redirectToPage("http://localhost:3000/api/usuarios");
+    });
+
+    document.getElementById("exportar").addEventListener("click", function () {
+      redirectToPage("http://localhost:3000/api/usuarios/export");
+    });
+
+    document.getElementById("importar").addEventListener("click", function () {
+      redirectToPage("http://localhost:3000/api/usuarios/import");
+    });
+</script>
+</html>

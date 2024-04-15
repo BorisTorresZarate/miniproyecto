@@ -1,0 +1,28 @@
+id,nombre,apellido,direccion,correo_electronico,dni,edad,fecha_creacion,telefono
+1,Ogdan,Skentelbury,80 Hooker Crossing,ogdan@gmail.com,94556679,32,Tue Jan 02 2024 00:00:00 GMT-0500 (hora estándar de Perú),976837456
+2,Lanie,Fitch,0 Scofield Crossing,Male,23321232,84,Fri Dec 23 2022 00:00:00 GMT-0500 (hora estándar de Perú),985345671
+3,Aurel,Kinsley,06 Nobel Crossing,Female,85623487,15,Tue Jun 13 2023 00:00:00 GMT-0500 (hora estándar de Perú),923567898
+4,Alexia,Vittore,6462 Birchwood Court,Female,87546789,22,Tue Jan 03 2023 00:00:00 GMT-0500 (hora estándar de Perú),978234567
+5,Jorrie,McLernon,755 Monica Drive,Female,45564556,25,Thu Aug 17 2023 00:00:00 GMT-0500 (hora estándar de Perú),923546783
+6,Giustina,Stirland,9 Milwaukee Park,Female,34546789,66,Tue Aug 15 2023 00:00:00 GMT-0500 (hora estándar de Perú),912543454
+7,Tamiko,Cundy,1998 3rd Court,Female,23454345,77,Wed Aug 16 2023 00:00:00 GMT-0500 (hora estándar de Perú),945613257
+8,Morrie,Branchet,8 Katie Pass,Male,56238756,51,Wed May 03 2023 00:00:00 GMT-0500 (hora estándar de Perú),932878566
+9,Pooh,Shiels,8469 Ilene Avenue,Female,89907889,69,Sun Apr 07 2024 00:00:00 GMT-0500 (hora estándar de Perú),954347560
+10,Lorrie,Albrooke,3625 Vahlen Trail,Male,67890989,96,Thu Nov 30 1899 00:00:00 GMT-0508 (hora estándar de Perú),912345687
+11,Regina,Titcombe,4 Warrior Lane,Female,00078872,10,Fri Jan 20 2023 00:00:00 GMT-0500 (hora estándar de Perú),923456878
+12,Reyna,Winchurst,6511 Esch Circle,Female,51268460,13,Thu Nov 30 1899 00:00:00 GMT-0508 (hora estándar de Perú),912345674
+13,Brook,Greenan,0 Lighthouse Bay Court,Male,45456565,65,Thu Nov 02 2023 00:00:00 GMT-0500 (hora estándar de Perú),912345676
+14,Mendel,MacTavish,051 Fairview Lane,Male,80808045,78,Wed Dec 06 2023 00:00:00 GMT-0500 (hora estándar de Perú),934768905
+15,Deina,Abercromby,0567 Crescent Oaks Park,Polygender,23765389,32,Tue Jan 16 2024 00:00:00 GMT-0500 (hora estándar de Perú),965423567
+16,Meaghan,Baldacchino,92585 Lindbergh Road,Female,23563456,67,Mon Dec 04 2023 00:00:00 GMT-0500 (hora estándar de Perú),987534458
+17,Nina,Cristou,94130 Burrows Trail,Female,82437645,33,Wed Sep 20 2023 00:00:00 GMT-0500 (hora estándar de Perú),345654369
+18,Nerita,Myhan,20810 Miller Road,Female,48573645,56,Wed Aug 16 2023 00:00:00 GMT-0500 (hora estándar de Perú),912323232
+19,Doretta,Stancer,78035 Knutson Circle,Female,56235467,15,Tue Apr 02 2024 00:00:00 GMT-0500 (hora estándar de Perú),345879561
+20,Elfie,Yes,4858 Vermont Hill,Female,12896709,24,Thu Apr 04 2024 00:00:00 GMT-0500 (hora estándar de Perú),967564532
+21,Selle,Hedaux,014 Jay Junction,Female,23764365,75,Mon Jan 15 2024 00:00:00 GMT-0500 (hora estándar de Perú),953467865
+22,Gregg,Huddart,16698 Pearson Avenue,Male,76325489,24,Wed Nov 08 2023 00:00:00 GMT-0500 (hora estándar de Perú),997876455
+23,Whitman,Egginson,7 Briar Crest Street,Non-binary,87343267,42,Wed Dec 13 2023 00:00:00 GMT-0500 (hora estándar de Perú),975423465
+24,Fredi,Quarmby,91320 Bluestem Court,Female,98878976,54,Fri Feb 09 2024 00:00:00 GMT-0500 (hora estándar de Perú),943352334
+25,Tina,Roper,8 Elka Pass,Non-binary,90909056,45,Tue Feb 27 2024 00:00:00 GMT-0500 (hora estándar de Perú),914567893
+26,Siegfried,Robson,71227 Goodland Circle,Male,70611239,23,Wed Nov 29 1899 00:00:00 GMT-0508 (hora estándar de Perú),923413222
+32,nombre,apellido,direccion,correo_electronico,dni,ed,Thu Nov 30 1899 00:00:00 GMT-0508 (hora estándar de Perú),telefono
